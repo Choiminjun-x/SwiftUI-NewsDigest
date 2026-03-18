@@ -1,6 +1,9 @@
 # API Keys
 NewsDigest/Info/Info.plist
 
+# Claude Code
+CLAUDE.md
+
 # Xcode
 *.xcuserstate
 xcuserdata/

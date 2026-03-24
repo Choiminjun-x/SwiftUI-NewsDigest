@@ -3,13 +3,10 @@
 > SwiftUI 학습 목적의 iOS 뉴스 리더 앱 | iOS 16+ / Swift 5.0
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d2e376ca-d5d7-45ee-9801-874ffbf7d6ca" width="45%" />
-  <img src="https://github.com/user-attachments/assets/30f0f2c9-0762-46d6-b2c3-fe5995bc91b1" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e2d31d03-e3a6-4a52-8b63-040e2f4d92c6" width="45%" />
-  <img src="https://github.com/user-attachments/assets/cc5af62e-cf57-4c6c-a012-417b18dbc8e8" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d2e376ca-d5d7-45ee-9801-874ffbf7d6ca" width="22%" />
+  <img src="https://github.com/user-attachments/assets/30f0f2c9-0762-46d6-b2c3-fe5995bc91b1" width="22%" />
+  <img src="https://github.com/user-attachments/assets/e2d31d03-e3a6-4a52-8b63-040e2f4d92c6" width="22%" />
+  <img src="https://github.com/user-attachments/assets/cc5af62e-cf57-4c6c-a012-417b18dbc8e8" width="22%" />
 </p>
 
 ---
